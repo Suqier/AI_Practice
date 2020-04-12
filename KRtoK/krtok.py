@@ -3,7 +3,7 @@
 # Video Link   --- https://www.bilibili.com/video/BV1dJ411B7gh
 # Data set Link --- https://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29
 #
-# 5-fold SVM to solve King-Rook vs. King
+# 5-fold cross-validation SVM to solve King-Rook vs. King
 # CScale = [2^(-5), 2^(15)]; gamma = [2^(-15), 2^3]
 # Kernel function: rbf
 # This file try to train a SVM to solve the question.
