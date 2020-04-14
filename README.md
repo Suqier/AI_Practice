@@ -32,10 +32,8 @@
 
         `Yann LeCun` 在 `1998` 年的那篇卷积神经网络做的 `MNIST` 手写数字识别的论文
 
-    * <a href="https://www.bilibili.com/video/BV1Ct411u71n" target="_blank"></a>
+    * <a href="https://www.bilibili.com/video/BV1Ct411u71n" target="_blank">【Netflix】阿尔法狗 AlphaGo (2017) </a>
 
-        【Netflix】阿尔法狗 AlphaGo (2017) 
-        
         关于阿尔法狗的纪录片，作为理工科生也要适当地补一下文化课
 
 * . . . . . .
