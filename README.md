@@ -24,14 +24,19 @@
     * <a href="https://aws.amazon.com/cn/public-datasets/" target="_blank">亚马逊数据</a>
 
 * 收集 `AI` 学习知识相关的书籍资料
-    * <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf" target="_blank">A Practical Guide to Support Vector Classiﬁcation
-</a>
+    * <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf" target="_blank">A Practical Guide to Support Vector Classiﬁcation</a>
         
         `libsvm` 使用指南
 
     * <a href="https://github.com/Suqier/AI_Practice/blob/master/_PDF/Gradient-based%20Learning%20Applied%20to%20Document%20Recognition.pdf" target="_blank">Gradient-based Learning Applied to Document Recognition</a>
 
         `Yann LeCun` 在 `1998` 年的那篇卷积神经网络做的 `MNIST` 手写数字识别的论文
+
+    * <a href="https://www.bilibili.com/video/BV1Ct411u71n" target="_blank"></a>
+
+        【Netflix】阿尔法狗 AlphaGo (2017) 
+        
+        关于阿尔法狗的纪录片，作为理工科生也要适当地补一下文化课
 
 * . . . . . .
 
