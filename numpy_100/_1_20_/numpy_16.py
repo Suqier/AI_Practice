@@ -1,0 +1,33 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+# date: 2020/06/06
+# author: Suqier
+# email: suqier5637@foxmail.com
+# 在这里尝试着翻译并自己练习黄海广博士的numpy-100项目
+# 项目原地址：https://github.com/rougier/numpy-100
+
+# 第十六题：如何给一个现有的数组加边
+
+import numpy as np
+
+Z = np.ones((5, 5))
+print(Z)
+
+print("---------")
+Z = np.pad(Z, pad_width=1, mode='constant', constant_values=0)
+print(Z)
+
+# 输出内容：
+# [[1. 1. 1. 1. 1.]
+#  [1. 1. 1. 1. 1.]
+#  [1. 1. 1. 1. 1.]
+#  [1. 1. 1. 1. 1.]
+#  [1. 1. 1. 1. 1.]]
+# ---------
+# [[0. 0. 0. 0. 0. 0. 0.]
+#  [0. 1. 1. 1. 1. 1. 0.]
+#  [0. 1. 1. 1. 1. 1. 0.]
+#  [0. 1. 1. 1. 1. 1. 0.]
+#  [0. 1. 1. 1. 1. 1. 0.]
+#  [0. 1. 1. 1. 1. 1. 0.]
+#  [0. 0. 0. 0. 0. 0. 0.]]
